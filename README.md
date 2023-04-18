@@ -4,4 +4,4 @@
 ## 舊版本程式(ADBfast.exe):
 ![shot_1](https://github.com/s104425108/ADBfast2/blob/main/old_ver_picA.png)
 ## 新版本程式(ADBfast2.exe):
-![shot_1](https://github.com/s104425108/ADBfast2/blob/main/old_ver_picA.png)
+![shot_1](https://github.com/s104425108/ADBfast2/blob/main/new_ver_picA.png)
