@@ -4,6 +4,7 @@
 UI簡化風:★★★★☆
 操作風險:★★★☆☆
 執行效率:★★★★★
+
 ## 舊版本程式(ADBfast.exe):
 ![shot_1](https://github.com/s104425108/ADBfast2/blob/main/old_ver_picA.png)
 ## 新版本程式(ADBfast2s.exe):
